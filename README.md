@@ -6,8 +6,7 @@
  [![VIDEO](https://github.com/ALLAN-mfQ/TrackBall-PC-GAME-Controller/blob/main/image/%E3%82%B5%E3%83%A0%E3%83%8D%EF%BC%91920.jpg?raw=true)](https://www.youtube.com/watch?v=2RWrr7OUH1g&t=10s)  
  
  
-# library download link  
-ARDUINO IDEにこちらのライブラリを追加します。　　
+# Add library to Arduino IDE.
 
 https://github.com/zapmaker/OptiMouse  
 

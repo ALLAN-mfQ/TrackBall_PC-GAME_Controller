@@ -3,7 +3,7 @@
 キーボードとマウスとして認識します。
 
 ## YouTube
- [![VIDEO](https://github.com/ALLAN-mfQ/TrackBall-PC-GAME-Controller/blob/main/image/%E3%82%B5%E3%83%A0%E3%83%8D%EF%BC%91920.jpg?raw=true)](https://www.youtube.com/watch?v=2RWrr7OUH1g&t=10s)  
+ [![VIDEO](https://github.com/ALLAN-mfQ/TrackBall_PC-GAME_Controller/blob/main/image/WS000000.jpg)](https://www.youtube.com/watch?v=2RWrr7OUH1g&t=10s)  
  
  
 # Add library to Arduino IDE.

@@ -42,12 +42,13 @@
 - 10K  
 
 ### 0805 Capacitor  
-- 0.1μ　/ 2 piece  
-- 10μ　/ 2 piece   
+- 0.1μF　/ 2 piece  
+- 10μF　/ 2 piece   
   　
 - PNP Transistor 2SA1162  
 - 3 3v Regulator　SOT-89  NJM78L33  
 - Diode  1N4148  / 22 piece  
+- Electrolytic Capacitor 220μF  
 　
 - Bearing MR63ZZ (6mm×3mm×2.5mm) / 3 piece  
 

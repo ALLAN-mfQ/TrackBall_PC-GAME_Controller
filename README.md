@@ -1,6 +1,7 @@
 # TrackBall PC GAME Controller
 
-キーボードとマウスとして認識します。
+キーボードとマウスとして認識します。  
+3Dデータは6.08インチの光造形3Dプリンターで印刷可能です。　　
 
 ## YouTube
  [![VIDEO](https://github.com/ALLAN-mfQ/TrackBall_PC-GAME_Controller/blob/main/image/WS000001.jpg)](https://www.youtube.com/watch?v=2RWrr7OUH1g&t=10s)  

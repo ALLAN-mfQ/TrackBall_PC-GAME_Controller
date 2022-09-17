@@ -9,7 +9,7 @@
 # Add library to Arduino IDE.  
   
 - https://github.com/zapmaker/OptiMouse  
-OptiMouseは ADNS2083.cpp と ADNS2083.h を「OptiMouse_MX8650_fix setting」の物に置き換えます。  
+OptiMouseは ADNS2083.cpp と ADNS2083.h を[「OptiMouse_MX8650_fix setting」](https://github.com/ALLAN-mfQ/TrackBall_PC-GAME_Controller/tree/main/Source%20code/OptiMouse_MX8650_fix%20setting)の物に置き換えます。  
 
 - https://github.com/nickgammon/Keypad_Matrix  
 

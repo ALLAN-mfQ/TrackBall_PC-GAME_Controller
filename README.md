@@ -6,15 +6,19 @@
  [![VIDEO](https://github.com/ALLAN-mfQ/TrackBall_PC-GAME_Controller/blob/main/image/WS000000.jpg)](https://www.youtube.com/watch?v=2RWrr7OUH1g&t=10s)  
  
  
-# Add library to Arduino IDE.
-
-https://github.com/zapmaker/OptiMouse  
-
-https://github.com/nickgammon/Keypad_Matrix  
-
-https://github.com/PaulStoffregen/Encoder  
-
+# Add library to Arduino IDE.  
+  
+- https://github.com/zapmaker/OptiMouse  
 OptiMouseは ADNS2083.cpp と ADNS2083.h を「OptiMouse_MX8650_fix setting」の物に置き換えます。  
+
+- https://github.com/nickgammon/Keypad_Matrix  
+
+- https://github.com/PaulStoffregen/Encoder  
+
+
+--------------------------------------------
+#### デフォルトのボタン配置
+<img src="https://github.com/ALLAN-mfQ/TrackBall_PC-GAME_Controller/blob/main/image/%E3%83%93%E3%83%83%E3%83%88%E3%83%9E%E3%83%83%E3%83%972.jpg" width="640px">
 
 
 # Social

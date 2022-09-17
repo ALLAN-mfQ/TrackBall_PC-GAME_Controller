@@ -28,7 +28,7 @@ OptiMouseは ADNS2083.cpp と ADNS2083.h を[「OptiMouse_MX8650_fix setting」]
 # Fusion360 Viewer
 [<img src="https://github.com/ALLAN-mfQ/TrackBall_PC-GAME_Controller/blob/main/image/WS000000.jpg" width="640px">](https://a360.co/3Qy293e)  
 
-- ## [CAD DATA](https://github.com/ALLAN-mfQ/TrackBall_PC-GAME_Controller/releases/tag/f3d)  
+- ## [CAD DATA](https://github.com/ALLAN-mfQ/TrackBall_PC-GAME_Controller/releases/tag/f3z)  
   
 -------------------------  
 # Social

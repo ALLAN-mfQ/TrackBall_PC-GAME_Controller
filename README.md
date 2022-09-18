@@ -1,8 +1,11 @@
 # TrackBall PC GAME Controller
 
 キーボードとマウスとして認識します。  
-3Dデータは6.08インチの光造形3Dプリンターで印刷可能です。　　
-
+3Dデータは6.08インチの光造形3Dプリンターで印刷可能です。  
+  
+This is recognized as a keyboard and mouse when viewed from a PC.  
+3D data can be printed with a 6.08" resin 3D printer.  
+  
 ## YouTube
  [![VIDEO](https://github.com/ALLAN-mfQ/TrackBall_PC-GAME_Controller/blob/main/image/WS000001.jpg)](https://www.youtube.com/watch?v=2RWrr7OUH1g&t=10s)  
  
@@ -10,15 +13,15 @@
 # Add library to Arduino IDE.  
   
 - https://github.com/zapmaker/OptiMouse  
-OptiMouseは ADNS2083.cpp と ADNS2083.h を[「OptiMouse_MX8650_fix setting」](https://github.com/ALLAN-mfQ/TrackBall_PC-GAME_Controller/tree/main/Source%20code/OptiMouse_MX8650_fix%20setting)の物に置き換えます。  
-
+OptiMouse replaces ADNS2083.cpp and ADNS2083.h with ["OptiMouse_MX8650_fix setting"](https://github.com/ALLAN-mfQ/TrackBall_PC-GAME_Controller/tree/main/Source%20code/OptiMouse_MX8650_fix%20setting).  
+  
 - https://github.com/nickgammon/Keypad_Matrix  
 
 - https://github.com/PaulStoffregen/Encoder  
 
 
 --------------------------------------------
-#### デフォルトのボタン配置
+#### Placement of programmed switches
 <img src="https://github.com/ALLAN-mfQ/TrackBall_PC-GAME_Controller/blob/main/image/%E3%83%93%E3%83%83%E3%83%88%E3%83%9E%E3%83%83%E3%83%972.jpg" width="640px">
   
 <img src="https://github.com/ALLAN-mfQ/TrackBall_PC-GAME_Controller/blob/main/image/IMG_8835.jpg" width="320px"> <img src="https://github.com/ALLAN-mfQ/TrackBall_PC-GAME_Controller/blob/main/image/IMG_8838.jpg" width="320px">  

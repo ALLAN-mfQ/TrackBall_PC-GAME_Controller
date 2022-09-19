@@ -234,14 +234,7 @@ void keyUp (const char which)
     if (Mouse.isPressed(MOUSE_MIDDLE))
     Mouse.release(MOUSE_MIDDLE);
   }
-  void gaia(void){
-     Keyboard.write('e');
-     delay(2000);
-    Mouse.click(MOUSE_RIGHT);
-     delay(3000);
-     delay(3000);
-      
-    }
+ 
 
 
 void CPI(void){

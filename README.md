@@ -1,3 +1,16 @@
+## update
+
+2022/12/18  
+ジャイロセンサーを追加しました。  
+
+メインボードを新しくしてMPU6050を搭載しました。  
+[+GYRO](https://github.com/ALLAN-mfQ/TrackBall_PC-GAME_Controller/tree/main/%2BGYRO)にデータを公開しています。
+
+[![VIDEO](https://github.com/ALLAN-mfQ/TrackBall_PC-GAME_Controller/blob/main/image/WS000011.jpg)](https://www.youtube.com/watch?v=FIJmmkFcd74&t)   
+・メインボードのシルクが一部間違っていたので修正しました。　×　BS.L　→　〇 RB.R  
+・KiCadのプロジェクトファイルを公開しました。  
+
+
 # TrackBall PC GAME Controller
 
 キーボードとマウスとして認識します。  
@@ -7,7 +20,7 @@ This is recognized as a keyboard and mouse when viewed from a PC.
 3D data can be printed with a 6.08" resin 3D printer.  
   
 ## YouTube
- [![VIDEO](https://github.com/ALLAN-mfQ/TrackBall_PC-GAME_Controller/blob/main/image/WS000001.jpg)](https://www.youtube.com/watch?v=2RWrr7OUH1g&t=10s)  
+ [![VIDEO](https://github.com/ALLAN-mfQ/TrackBall_PC-GAME_Controller/blob/main/image/WS000001.jpg)](https://www.youtube.com/watch?v=2RWrr7OUH1g&t)  
  
  
 # Add library to Arduino IDE.  

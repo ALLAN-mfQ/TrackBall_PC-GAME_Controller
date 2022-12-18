@@ -4,6 +4,7 @@
 ジャイロセンサーを追加しました。  
 
 メインボードを新しくしてMPU6050を搭載しました。  
+新しい基板はボタンを2つ追加できるようにしてあります。　必要に応じて改造可能です。  
 [+GYRO](https://github.com/ALLAN-mfQ/TrackBall_PC-GAME_Controller/tree/main/%2BGYRO)にデータを公開しています。
 
 [![VIDEO](https://github.com/ALLAN-mfQ/TrackBall_PC-GAME_Controller/blob/main/image/WS000011.jpg)](https://www.youtube.com/watch?v=FIJmmkFcd74&t)   

@@ -1,4 +1,5 @@
 
+
 #include "Keypad_Matrix.h"
 #include "Keyboard.h"
 #include "Mouse.h"
@@ -77,13 +78,17 @@ joystick_button _/↓               ↓          [23]          [21]
     {sw1(PCIset) ,8    ,20  ,12  ,24}
     {5  ,6   ,18  ,13  ,25}
 *********************************************************/
+#define _gyro '8' //gyro on/off
+#define _CPI '9'  //CPI set
+#define _SW3 '6'  //option button sw3
+#define _SW2 '7'  //option button sw2
 
 const char keys[ROWS][COLS] = {
  
-  {'8','c','2',MOUSE_MIDDLE,MOUSE_LEFT},
-  {'6',KEY_ESC,'1','r','e'},
-  {'7', 'j','4','t',KEY_SPACE},
-  {'9', 'b','5','z','q'},
+  {_gyro,'c','2',MOUSE_MIDDLE,MOUSE_LEFT},
+  {_SW3,KEY_ESC,'1','r','e'},
+  {_SW2, 'j','4','t',KEY_SPACE},
+  {_CPI, 'b','5','z','q'},
   {MOUSE_RIGHT, 'm', '3','x','f'},
 
 };
@@ -355,14 +360,14 @@ void keyDown (const char which)
   {
      Serial.print (F("Key down: "));
      Serial.println (which);
-if(which == '9') cpi_set =1;
+if(which == _CPI) cpi_set =1;
 
-if(which == '8'){
+if(which == _gyro){
   if(on_gyro2 == 0) {on_gyro =1; on_gyro2 =1;}
   else if(on_gyro2 == 1) {on_gyro =0; on_gyro2 =0;}
 }
 
-if(which != MOUSE_LEFT && which != MOUSE_RIGHT && which != MOUSE_MIDDLE && which !='9' && which != '8')
+if(which != MOUSE_LEFT && which != MOUSE_RIGHT && which != MOUSE_MIDDLE && which !=_CPI && which != _gyro)
   Keyboard.press(which);
 
 
@@ -386,7 +391,7 @@ void keyUp (const char which)
   Serial.print (F("Key up: "));
   Serial.println (which);
 
-  if(which != MOUSE_LEFT && which != MOUSE_RIGHT && which != MOUSE_MIDDLE && which != '9' && which != '8'){
+  if(which != MOUSE_LEFT && which != MOUSE_RIGHT && which != MOUSE_MIDDLE && which != _CPI && which != _gyro){
   Keyboard.release(which);
   }
   if(which == MOUSE_LEFT)
